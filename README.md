@@ -13,3 +13,7 @@ Please note that the content is not intended to influence political decisions or
 We do not endorse any political candidates, parties, or campaigns. Any references to specific political entities are for informational purposes only and should not be construed as an endorsement or opposition.
 
 We encourage our readers/viewers to seek a wide range of sources when making informed political decisions and to engage in open and respectful discourse on political matters.
+
+Cheap games:
+
+<img width="943" alt="Screenshot 2024-02-01 211349" src="https://github.com/ewdlop/EconomicFinanceNote/assets/25368970/0eba77b7-b84f-4d1d-a3b8-16076a518535">
