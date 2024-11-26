@@ -14,6 +14,12 @@ We do not endorse any political candidates, parties, or campaigns. Any reference
 
 We encourage our readers/viewers to seek a wide range of sources when making informed political decisions and to engage in open and respectful discourse on political matters.
 
-Cheap games:
+# Cheap games:
 
 <img width="943" alt="Screenshot 2024-02-01 211349" src="https://github.com/ewdlop/EconomicFinanceNote/assets/25368970/0eba77b7-b84f-4d1d-a3b8-16076a518535">
+
+# (Economical) Game Theory:
+
+https://www.investopedia.com/terms/b/blackscholes.asp
+
+https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model#Black%E2%80%93Scholes_equation
