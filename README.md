@@ -23,3 +23,7 @@ We encourage our readers/viewers to seek a wide range of sources when making inf
 https://www.investopedia.com/terms/b/blackscholes.asp
 
 https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model#Black%E2%80%93Scholes_equation
+
+https://en.wikipedia.org/wiki/Mean-field_game_theory
+
+[https://en.wikipedia.org/wiki/Nash_equilibrium#](https://en.wikipedia.org/wiki/Nash_equilibrium#See_also) | https://en.wikipedia.org/wiki/Mexican_standoff
