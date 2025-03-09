@@ -2,9 +2,9 @@
 
 "Disclaimer: The information provided in this response is for general informational purposes only and is not intended to be a substitute for professional financial advice. Always seek the advice of a qualified financial advisor with any questions you may have regarding your financial planning and investment strategy. The author of this response is not a licensed financial advisor and the information provided should not be considered as financial advice. The author and provider of this response disclaim any liability in connection with the use of this information."
 
-# 10% off means it costs 10% less to make a purchase before taxes(In NJ)
+## 10% off means it costs 10% less to make a purchase before taxes(In NJ)
 
-# Political Disclaimer
+## Political Disclaimer
 
 The content presented here is intended for informational purposes only and does not necessarily reflect the views or positions of [Your Organization/Your Name]. We strive to present a balanced and fair perspective on political matters, however, the information might include personal opinions, interpretations, or viewpoints.
 
@@ -16,11 +16,11 @@ We do not endorse any political candidates, parties, or campaigns. Any reference
 
 We encourage our readers/viewers to seek a wide range of sources when making informed political decisions and to engage in open and respectful discourse on political matters.
 
-# Cheap games:
+## Cheap games:
 
 <img width="943" alt="Screenshot 2024-02-01 211349" src="https://github.com/ewdlop/EconomicFinanceNote/assets/25368970/0eba77b7-b84f-4d1d-a3b8-16076a518535">
 
-# (Economical) Game Theory:
+## (Economical) Game Theory:
 
 https://www.investopedia.com/terms/b/blackscholes.asp
 

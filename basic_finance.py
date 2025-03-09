@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-!pip install numpy pandas matplotlib scipy
+#!pip install numpy pandas matplotlib scipy
 
 import numpy as np
 import pandas as pd

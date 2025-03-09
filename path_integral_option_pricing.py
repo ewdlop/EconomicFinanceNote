@@ -1,3 +1,6 @@
+import numpy as np
+from scipy.integrate import quad
+
 def payoff(S, K):
     return np.maximum(S - K, 0)
 
